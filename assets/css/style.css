@@ -716,3 +716,9 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+footer p {
+  margin: 0;
+  text-align: center;
+  font-size: x-small;
+}
