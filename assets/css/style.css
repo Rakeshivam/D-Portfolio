@@ -50,7 +50,7 @@
 }
 
 .instagram {
-  color: white
+  color: #e1306c
 }
 
 .linkedin {
@@ -400,6 +400,10 @@ h3 {
 
 .card .card-content {
   padding-bottom: 30px;
+}
+
+.card-content-awards {
+  text-align: center;
 }
 
 .card .card-content p {
