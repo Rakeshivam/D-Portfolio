@@ -525,7 +525,12 @@ a.hoverline:hover {
 }
 
 .card.medium .card-image {
-  height: 240px;
+  height: 420px;
+}
+
+.card.medium  {
+  height: 500px;
+  width: auto;
 }
 
 .card-action a.btn-floating {
